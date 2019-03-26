@@ -1,27 +1,14 @@
----
-title: Home
----
-
-# Hello World! (It works!)
-
-This are the contents of the Hugo start website front page.
-
-## Something to read: Sonnet LXVI.
-
-> *Tired with all these, for restful death I cry,  
-> As to behold desert a beggar born,  
-> And needy nothing trimm'd in jollity,  
-> And purest faith unhappily forsworn,  
-> And gilded honour shamefully misplaced,  
-> And maiden virtue rudely strumpeted,  
-> And right perfection wrongfully disgraced,  
-> And strength by limping sway disabled  
-> And art made tongue-tied by authority,  
-> And folly, doctor-like, controlling skill,  
-> And simple truth miscalled simplicity,  
-> And captive good attending captain ill:  
-> Tired with all these, from these would I be gone,  
-> Save that, to die, I leave my love alone.*
-> 
-> William Shakespeare
-
+# (Název)
+Vše o Game of Thrones 
+**(Cíl)**
+Ve svém semestrálním projektu bych chtěla vzdát hold knižní i seriálové podobě příběhu, který si získal srdce celého světa a tak nějak jej zmapovat. 
+(Kontext)
+Hra o Trůny je knižní i seriálová série z pera George Martina, jejíž seriálová verze se začátkem dubna chýlí ke konci. 
+(Kontext…)
+Ve svém projektu bych tedy ráda rozebrala postavy, děj, možná i fanouškovské teorie vznikající po dobu vysílání seriálu. Zároveň bych mohla přispět a zakomponovat do projektu svojí mapu natáčecích míst z úkolu do INFOSU. Stejnětak bych mohla zahrnout porovnání mezi knižní sérií a seriálem.
+(Kontext…)
+Seriál pojednává o fantasy zemi,kde se odehrává boj mezi mnoha hlavními postavami, jehož cílem je zmocnit se trůnu. Další velkou zápletkou je příchod zimy a s ní i příchod nemrtvých, Bílých chodců a jejich Nočního krále.
+(Zdroje)
+https://hbogo.cz/serialy/hra-o-truny/rada-7
+https://www.sparknotes.com/lit/a-game-of-thrones/summary/
+https://www.imdb.com/title/tt0944947/plotsummary
