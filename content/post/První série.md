@@ -7,8 +7,6 @@ tags:
    
 ---
 
-###Jak to všechno začalo?###
-
 <iframe width="560" height="315" src="https://www.youtube.com/embed/gcTkNV5Vg1E" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 Příběh televizního zpracování Hry o trůny se začal psát v roce 2011, kdy se televizní tvůrci Weiss a Beniof ujali knihy od R. R. Martina rozhodli se jí převést na seriálové zpracování. 
