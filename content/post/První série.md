@@ -1,5 +1,5 @@
 ---
-title: Jak to všechno začalo?
+title: První série
 date: 2018-03-15
 tags: 
     - GameofThrones
