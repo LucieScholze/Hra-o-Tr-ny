@@ -1,6 +1,6 @@
 ---
 title: První série
-date: 2018-03-15
+date: 2018-04-07
 tags: 
     - GameofThrones
     - seasonone
