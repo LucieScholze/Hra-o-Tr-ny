@@ -38,7 +38,7 @@ Press Ctrl+C to stop
 When adding small changes, do not commit anything from `/docs folder`. Push changes in docs only after some milestone, preferably by a single user, so that merge conflicts do not make work with the repository difficult.
 
 Generally, built files are not to be commited exactly for this reason — but in this case, they're useful to generate a [Github Sites based website](http://jan-martinek.github.io/hugo-start/).
-
+test
 
 ## Troubleshooting
 
