@@ -31,5 +31,7 @@ Další dějová linka se odehrává na kontinentu zvaném Essos, kde se v domě
 
 Daenerys čeká se svým mužem dítě a v hlavě se jí zrodí myšlenka, že právě ona dobude zpět Západozemí. Její muž však pod kletbou čarodejnice Mirri Maz Duur (Mia Soteriou) umírá a Daenerys je nyní prokleta. Její dítě zemře a ona podle věštby už nikdy nebude mít dítě. Při spálení těla svého muže však vejde do ohně s dračími vejci, které dostala od Illyria Mopatise a vylíhnou se jí tři draci.
 
+
+Nejde mi to.
 <!--more-->
 
