@@ -4,6 +4,9 @@ date: 2019-04-16
 tags: 
     - GameofThrones
 ---
+Krátké představení moodboardů
+
+Všechny naše moodboardy si v podstatě kladou stejný cíl a tím je obrazově shrnout to, co každý z nás vnímá jako nejpodstatnější na Hře o Trůny. Žádný z nich tedy není nijak úžeji zaměřen, naopak na všech může návštěvník našeho webu vidět hlavní postavy, mystická zvířata, železný trůn a obrázky, které poukazují na to, že existuje nějaká knižní předloha. Stejně tak jsme se i slovně pokusili vyjádřit, co je pro Hru o Trůny typické a bez čeho si tento seriál nedokážeme představit.
 
 Moodboard pro Hra o trůny
 MoodBoard je dělán do kontextu našeho tématu hra o trůny. Zaměřil jsem se hlavně na prvky, které se objevují ve hře o trůny. Bohužel v náhledu nelze poznat názvy tagů: Hra o trůny, Draci, Fenomén doby, intriky, dobrodružství. Určitě by měli být součástí webu, jelikož jde o hlavní motivy celého seriálu. Dalšími artefakty, které jsou na moodboard jsou obrázky, které by se v nějakém kontextu měli zařadit jako dokreslení celého povídáním. Pozadím by určitě některé ze stránek by měla být mapa světa. Nedílnou součástí fiktivního světa jsou i draci, jenž hrají jednu z důležitých rolí v boji o trůn. Zapomenout se nesmí ani na krásné kostýmy a velkolepou výpravu, kterou filmaři dali dohromady. Také se postarali o mimořádné kulisy, jenž jsou ozdobou všech řad seriálu. A neposlední řadě, by se na stránkách měl objevit i sám spisovatel George Raymond Richard Martin.
