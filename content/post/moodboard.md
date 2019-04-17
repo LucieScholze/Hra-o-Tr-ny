@@ -23,7 +23,7 @@ obsáhla celých 7 řad. Velkou částí Game of Thrones jsou i mystická zvíř
 Můj moodboard zahrnuje i znaky těch nejdůležitějších rodů, které v knihách i v televizní sérii dominují a v tazích jsem se soustředila na to nejzákladnější, 
 jako je autor celé téhle série (skvělý George Raymond Richard Martin) a slovní obraty, které jsou pro Hru o trůny typické (a zná je i ten, který to nikdy neviděl). 
 
-<img src="https://is.muni.cz/auth/www/489318/export_game-of-thrones-1HgqOp.png">
+<img src="https://is.muni.cz/auth/www/489318/export_game-of-thrones-1HgqOp.png" width="655">
 
 
 
