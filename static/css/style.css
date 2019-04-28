@@ -57,5 +57,11 @@ nav .active {
 }
 
 p {
+  font-family: serif;
+  font-size: 15px;
+}
+
+h1 {
+  font-family: serif;
   font-size: 15px;
 }
