@@ -5,6 +5,7 @@
    background-image: url("https://i.pinimg.com/564x/c4/6c/df/c46cdf7bc1a42fa2d976291fb0632b56.jpg");
     background-repeat: no-repeat;
   background-size: 100%;
+  background-attachment: 50%;
 }
 
 header {
