@@ -41,8 +41,8 @@ aside {
   font-family: monospace;
 	color: darkred;
 	font-size: 20px;  
-  background-size: 100%;
-  background-color: gray;
+  background: grey;
+    background-size: 100px 200px;
 }
 
 nav ul {
@@ -51,22 +51,17 @@ nav ul {
   font-family: monospace;
   font-size: 15px;
   background-size: 100%;
-  background-color: gray;
-  background-size: 200px 100px;
-}
+ 
 
 nav li {
   margin-bottom: 1em;
   font-family: monospace;
   font-size: 15px;
-  background-size: 100%;
-  background-color: gray;
+
 }
 
 nav .active {
   font-weight: bold;
-  background-size: 100%;
-  background-color: gray;
 }
 
 
