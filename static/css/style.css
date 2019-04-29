@@ -63,4 +63,7 @@ nav .active {
   font-weight: bold;
 }
 
+  description {
+    background-color: gray;
+  }
 
