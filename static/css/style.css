@@ -8,9 +8,9 @@ header {
  padding: 30px 0;
 	border-bottom: solid;
 	font-family: Times New Roman;
-	color: white;
+	color: lightblue;
 	font-size: 30px;
-	text-shadow: 2px 1px black; 
+	text-shadow: 3px 2px black; 
   background-image: url("https://is.muni.cz/auth/www/488358/juego-de-tronos-islandia.jpg");
   background-repeat: repeat-y;
   background-size: 100%;
