@@ -39,8 +39,9 @@ aside {
   width: 25%;
   margin-top: 1em;
   font-family: monospace;
-	color: black;
+	color: darkred;
 	font-size: 20px; 
+  background-color: grey;  
 }
 
 nav ul {
