@@ -52,6 +52,7 @@ nav ul {
   font-size: 15px;
   background-size: 100%;
   background-color: gray;
+  background-size: 200px 100px;
 }
 
 nav li {
