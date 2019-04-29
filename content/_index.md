@@ -1,4 +1,5 @@
-#Game of Thrones
+Game of Thrones
+-----------------
 
 **Ve svém semestrálním projektu bych chtěla vzdát hold knižní i seriálové podobě příběhu, který si získal srdce celého světa a tak nějak jej zmapovat. **
 
