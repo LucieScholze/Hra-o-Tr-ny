@@ -42,7 +42,9 @@ aside {
   margin-top: 1em;
   font-family: monospace;
 	color: darkred;
-	font-size: 20px;  
+	font-size: 20px; 
+   padding-bottom: 2em;
+  min-height: 400px;
   
 }
 
