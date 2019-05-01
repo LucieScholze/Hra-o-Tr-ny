@@ -8,7 +8,7 @@ Pár zdrojů ke Game of Thrones
 
 
 1. zdroj
-<iframe src="https://www.google.com/maps/d/embed?mid=1aE0O2HKp3KaIus7B6M4KnJiVPJVrVhu7" width="580" height="430"></iframe>
+<iframe src="https://www.google.com/maps/d/embed?mid=1aE0O2HKp3KaIus7B6M4KnJiVPJVrVhu7" width="550" height="400"></iframe>
 
 Licence: Google API Licence
 
