@@ -7,8 +7,8 @@ tags:
 Pár zdrojů ke Game of Thrones
 
 
-1. zdroj
-<iframe src="https://www.google.com/maps/d/embed?mid=1aE0O2HKp3KaIus7B6M4KnJiVPJVrVhu7" width="550" height="400"></iframe>
+První zdroj
+<iframe src="https://www.google.com/maps/d/embed?mid=1aE0O2HKp3KaIus7B6M4KnJiVPJVrVhu7" width="520" height="380"></iframe>
 
 Licence: Google API Licence
 
@@ -17,7 +17,7 @@ Pro fanoušky, které tohle téma zajímá a chtějí vědět, kde se natáčelo
 o jaké místo v Evropě a Africe jde, ale také o jaké místo se jedná v rámci Her o trůny (např. v Chorvatsku, Dubrovníku se natáčely
 scény s Daenerys v Domě neumírajících v Qarthu).
 
-2. zdroj
+Druhý zdroj
 https://www.statista.com/topics/4187/game-of-thrones/
 
 Licence: Statista Campus License
@@ -28,7 +28,7 @@ Můžeme taky zjistit, ve které sérii bylo nejvíc smrtí (k roku 2017 je to s
 Bohužel, pro neomezený přístup je potřeba si zřídit Premium účet.
 
 
-3. zdroj
+Třetí zdroj
 https://www.actitime.com/game-of-thrones-timesheet
 
 Licence: actiTIME License 
