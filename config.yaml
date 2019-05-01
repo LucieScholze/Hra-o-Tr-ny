@@ -1,7 +1,8 @@
-title: Vše o Game of Thrones
+title: Game of Thrones
 baseURL: https://jovial-ptolemy-07956d.netlify.com/
 languageCode: cs-cz
 publishDir: public
+ <link rel="stylesheet" href="styles.css">
 
 menu:
   main:
@@ -14,6 +15,6 @@ menu:
       weight: 20
 
 params:
-  description: Description of my new site.
-  authors: Authors
+  description: Ve svém semestrálním projektu bychom čtenáři rádi přiblížili knižní i seriálovou podobu příběhu, který si získal srdce celého světa.
+  authors: Lucie Scholzová, Terezie Rössová, Tomáš Badin
 

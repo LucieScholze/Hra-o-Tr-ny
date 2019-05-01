@@ -1,5 +1,7 @@
-# Vše o Game of Thrones
-**Ve svém semestrálním projektu bych chtěla vzdát hold knižní i seriálové podobě příběhu, který si získal srdce celého světa a tak nějak jej zmapovat. **
+Game of Thrones
+-----------------
+
+
 
 Hra o Trůny je knižní i seriálová série z pera George Martina, jejíž seriálová verze se začátkem dubna chýlí ke konci. 
 
