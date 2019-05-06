@@ -1,6 +1,6 @@
 ---
 title: O tvorbě seriálu
-date: 2018-05-06
+date: 2019-05-06
 tags: 
     - GameofThrones
     - oseriálu
