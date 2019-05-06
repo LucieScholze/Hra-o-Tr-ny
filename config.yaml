@@ -1,4 +1,4 @@
-title: Game of Thrones
+title: Hra o Trůny
 baseURL: https://jovial-ptolemy-07956d.netlify.com/
 languageCode: cs-cz
 publishDir: public
@@ -7,10 +7,10 @@ googleAnalytics: UA-139430703-1
 
 menu:
   main:
-    - name: Homepage
+    - name: Domovská stránka
       url: /
       weight: 10
-    - name: Archive
+    - name: Archiv
       identifier: post
       url: /post/
       weight: 20
