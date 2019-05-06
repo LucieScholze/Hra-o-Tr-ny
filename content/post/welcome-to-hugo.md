@@ -7,7 +7,7 @@ tags:
    
 ---
 
-<iframe width="560" height="315" src="https://www.youtube.com/watch?v=wpImt0KILE4" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/wpImt0KILE4" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 Seriál s názvem Hra o Trůny, podle označení první knihy ze série Píseň ledu si svou premiéru na televizní stanici HBO vysloužil 17. dubna 2011. Hned o dva dny později byl prodloužen o druhou sérii. 
 Seriál se natáčel převážně v Severním Irsku, Chorvatsku, na Maltě a na Islandu. 
