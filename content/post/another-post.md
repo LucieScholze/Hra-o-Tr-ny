@@ -1,19 +1,10 @@
 ---
-title: All albums of The Beatles
-date: 2018-03-15
+title: O Autorovi
+date: 2019-05-06
 tags: 
-    - beatles
-    - data
+    - author
+    - GameofThrones
 ---
+George R. R. Martin je americký spisovatel se specializací na fantasy a sci-fi, který se stal známým díky knižním sérii Píseň ledu a ohně. Kromě Písní ledu a ohně napsal i několik dalších děl, jako je kniha z roku 2018 Nightflyers a Soumrak na Worlornu z roku 1977. Za svůj dlouhý život, čítající již 70 let, získal mnoho spisovatelských ocenění včetně World Fantasy Award, Hugo či Nebula. 
 
-This is just another post. And it illustrates a mighty functionality.
-
-<!--more-->
-
-See how to include data inside your posts:
-
-## Beatles Discography
-
-{{< beatles >}}
-
-You can find the data in `data/The_Beatles/discography.yml` and the template used to display it in `layouts/shortcodes/beatles.html`.
+<img src="https://cdn.japantimes.2xx.jp/wp-content/uploads/2019/04/f-grrthrones-a-20190406-870x580.jpg" width="455">

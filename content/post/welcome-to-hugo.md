@@ -1,18 +1,17 @@
 ---
-title:  "Welcome to Hugo!"
-date:   2018-03-13
+title: O tvorbě seriálu
+date: 2019-05-06
 tags: 
-    - hello world
-    - start
-    - hugo
+    - GameofThrones
+    - oseriálu
+   
 ---
-You’ll find this post in your `content/post` directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run command `hugo server`, which launches a web server and auto-regenerates your site when a file is updated.
 
-To add new posts, simply add a file in the `content/post` directory that follows the convention `name-of-post.md` and includes the necessary front matter. You can even create it with command `hugo new post/name-of-post.md` (you need to be at site's root folder). Take a look at the source for this post to get an idea about how it works.
+<iframe width="560" height="315" src="https://www.youtube.com/embed/wpImt0KILE4" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-When you want to publish an article, simply remove `draft: true` from it's front matter.
-
-
-## What's next?
-
-See [another post]({{< ref "another-post.md" >}}) or head back to [homepage](../../). (Check this paragraph to see the magic behind the between posts.)
+Seriál s názvem Hra o Trůny, podle označení první knihy ze série Píseň ledu si svou premiéru na televizní stanici HBO vysloužil 17. dubna 2011. Hned o dva dny později byl prodloužen o druhou sérii. 
+Seriál se natáčel převážně v Severním Irsku, Chorvatsku, na Maltě a na Islandu. 
+V současné době (2018) má za sebou tento úspěšný seriál sedm sérií a v dubnu po dvouleté pauze zakončuje svou pouť závěrečnou osmou řadou o šesti dílech. 
+Na tvorbě Hry o trůny se pravidelně podílí režiserská dvojice David Benioff a D. B. Weiss. K a na scénářích k prvním čtyřem sériím se podílel i autor knižní předlohy R. R. Martin.
+Herecké obsazení Hry o Trůny tvoří jak známí herci, tak neherci. Mezi nejznámější tváře patří bezesporu Emilia Clarke ztvárňující Daenerys Targaryen, Kit Harrington v roli Jona Sněha (v originálu Jon Snow), Lena Headey coby Cersei Lannister a Peter Dinklage jako Tyrion Lannister. 
+Herci účinkující v Hře o Trůny bývají často nominováni v cenách Emmy a zároveň patří k nejlépe placeným hercům současnosti.

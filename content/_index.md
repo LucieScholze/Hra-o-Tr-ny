@@ -1,9 +1,9 @@
-Game of Thrones
+Hra o trůny
 -----------------
 
 
 
-Hra o Trůny je knižní i seriálová série z pera George Martina, jejíž seriálová verze se začátkem dubna chýlí ke konci. 
+Hra o trůny je knižní i seriálová série z pera George Martina, jejíž seriálová verze se začátkem dubna chýlí ke konci. 
 
 Ve svém projektu bych tedy ráda rozebrala postavy, děj, možná i fanouškovské teorie vznikající po dobu vysílání seriálu. Zároveň bych mohla přispět a zakomponovat do projektu svojí mapu natáčecích míst z úkolu do INFOSU. Stejnětak bych mohla zahrnout porovnání mezi knižní sérií a seriálem.
 
