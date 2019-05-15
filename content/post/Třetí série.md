@@ -50,5 +50,5 @@ frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; pict
 Daenerys Targaryen (Emilia Clarke) na kontinentu Essos začíná dobývat otrokářská města a osvobozuje otroky, ale nejde jí to tak, jak
 čekala. Proto se rozhodne zůstat v Meereenu, aby tam zajistila klid a naučila se, jak vládnout.
 
-<iframe width="560" height="315" src="https://is.muni.cz/auth/www/489318/Daenerys.jpg"
+<iframe width="560" height="315" src="https://is.muni.cz/auth/www/489318/Daenerys2.jpg"
 frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
