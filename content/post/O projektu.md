@@ -48,4 +48,4 @@ tags:
 - zajímavosti
 - spin-offy
     8. Strategii zveřejňování obsahu: jaké informace budete zveřejňovat? (Projekt poběží po zbytek semestru, tedy přibližně 8 týdnů.)
-       - budeme postupně zveřejňovat, co se událo v daných sériích až po tu poslední a k tomu další zajímavý obsah
+       - budeme postupně zveřejňovat, co se událo v daných sériích a k tomu další zajímavý obsah
