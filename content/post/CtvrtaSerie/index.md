@@ -1,10 +1,10 @@
----
-title: Ètvrtá Série
+ï»¿---
+title: ÄŒtvrtÃ¡ SÃ©rie
 date: 2019-05-15
 
 ---
-
-Po dech beroucím závìru tøetí øady, zmizelo mnoho ze svìta Hra o Trùny nìkolik èlenù rodu Starkù. To napomohlo posílení vlivu Lannisterùm a však i po této události nemohou bıt zcela v klidu. Stannis Baratheon posiluje svoji armádu a do Královo Pøístavištì pøijídí host na svatbu Joffreyho Rudá Zmije z Dorne, kterı svım pøekvapivım rozhodnutím chce pomoci jinému Lannisterovi v ošemetné situaci. Mezitím Daenerys se svojí velkou armádou Neposkvrnìnıch a podporou tøí drakù osvobodí otrokáøské mìsto Meereen a spøádá plány na pøeplutí Úzkého moøe. Na severu Noèní hlídka èelí velkım nesnázím, které jim pøidìlává vùdce divokıch Mance Rydera, jen je tak donucen pod hrozbou od Bílıch chodcù. V sérii se uskuteèní nìkolik zajímavıch zvratù, jak u jsme od autorù seriálu Hry o Trùny zvyklı.
+                         
+Po dech beroucÃ­m zÃ¡vÄ›ru tÅ™etÃ­ Å™ady, zmizelo mnoho ze svÄ›ta Hra o TrÅ¯ny nÄ›kolik ÄlenÅ¯ rodu StarkÅ¯. To napomohlo posÃ­lenÃ­ vlivu LannisterÅ¯m a vÄ…ak i po tÃ©to udÃ¡losti nemohou bÃ½t zcela v klidu. Stannis Baratheon posiluje svoji armÃ¡du a do KrÃ¡lovo PÅ™Ã­staviÄ…tÄ› pÅ™ijÃ­Ä¾dÃ­ host na svatbu Joffreyho RudÃ¡ Zmije z Dorne, kterÃ½ svÃ½m pÅ™ekvapivÃ½m rozhodnutÃ­m chce pomoci jinÃ©mu Lannisterovi v oÄ…emetnÃ© situaci. MezitÃ­m Daenerys se svojÃ­ velkou armÃ¡dou NeposkvrnÄ›nÃ½ch a podporou tÅ™Ã­ drakÅ¯ osvobodÃ­ otrokÃ¡Å™skÃ© mÄ›sto Meereen a spÅ™Ã¡dÃ¡ plÃ¡ny na pÅ™eplutÃ­ ÃšzkÃ©ho moÅ™e. Na severu NoÄnÃ­ hlÃ­dka ÄelÃ­ velkÃ½m nesnÃ¡zÃ­m, kterÃ© jim pÅ™idÄ›lÃ¡vÃ¡ vÅ¯dce divokÃ½ch Mance Rydera, jenÄ¾ je tak donucen pod hrozbou od BÃ­lÃ½ch chodcÅ¯. V sÃ©rii se uskuteÄnÃ­ nÄ›kolik zajÃ­mavÃ½ch zvratÅ¯, jak uÄ¾ jsme od autorÅ¯ seriÃ¡lu Hry o TrÅ¯ny zvyklÃ½.
 
 ![Zmije](zmije.png)
 
