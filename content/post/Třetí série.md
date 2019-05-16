@@ -15,16 +15,14 @@ Lord Frey nabídku přijímá a koná se svatba. Jenže v momentě, kdy se ženi
 posvátné právo hostů a spolu s vazalem Robba Starka, Roosem Boltonem, začnou Seveřany vraždit. 
 Roose Bolton (Michael McElhatton) zavraždí Robba a Catelyn Stark podřežou hrdlo. Tato událost později vešla ve známost jako Rudá svatba.
 
-<iframe width="560" height="315" src="https://is.muni.cz/auth/www/489318/Red_wedding.jpg"
-frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<img src="https://is.muni.cz/auth/www/489318/Red_wedding.jpg" width="200" height="300">
 
 
 Mezitím se Arya Stark (Maisie Williams) s Ohařem (Rory McCann) přibližují k Dvojčatům a jsou svědky tohoto masakru. 
 Arya později nechává Ohaře zraněného umírat a sama se vydá do Braavosu, aby se naučila umění zabíjení a stala se jednou členkou
 starého řádu zvaného Muži bez tváře. 
 
-<iframe width="560" height="315" src="https://is.muni.cz/auth/www/489318/Arya_and_the_Hound.jpeg"
-frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<img src="https://is.muni.cz/auth/www/489318/Arya_and_the_Hound.jpeg" width="200" height="300">
 
 
 Bran a Rickon Starkovi se za Zdí rozdělují, Rickon (Art Parkinson) míří do Bílého přístavu, zatímco Bran (Isaac Hempstead-Wright) se 
@@ -50,5 +48,4 @@ frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; pict
 Daenerys Targaryen (Emilia Clarke) na kontinentu Essos začíná dobývat otrokářská města a osvobozuje otroky, ale nejde jí to tak, jak
 čekala. Proto se rozhodne zůstat v Meereenu, aby tam zajistila klid a naučila se, jak vládnout.
 
-<iframe width="560" height="315" src="https://is.muni.cz/auth/www/489318/Daenerys2.jpg"
-frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<img src="https://is.muni.cz/auth/www/489318/Daenerys2.jpg" width="200" height="300">
