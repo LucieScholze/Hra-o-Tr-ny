@@ -1,6 +1,3 @@
-Hra o trůny
------------------
-
 
 Hra o trůny je knižní i seriálová série z pera George Martina, jejíž seriálová verze se začátkem dubna chýlí ke konci. 
 
@@ -12,3 +9,4 @@ Zdroje
 https://hbogo.cz/serialy/hra-o-truny/rada-7
 https://www.sparknotes.com/lit/a-game-of-thrones/summary/
 https://www.imdb.com/title/tt0944947/plotsummary
+
