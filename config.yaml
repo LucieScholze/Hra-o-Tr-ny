@@ -1,10 +1,8 @@
----
 title: Hra o trůny
 baseURL: https://jovial-ptolemy-07956d.netlify.com/
 languageCode: cs-cz
 publishDir: public
 GoogleAnalytics: UA-139430703
----
 
 menu:
   main:
