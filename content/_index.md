@@ -1,6 +1,7 @@
 
+
 O hře 
------
+
 
 Hra o trůny je knižní i seriálová série z pera George Martina, jejíž seriálová verze se začátkem dubna chýlí ke konci. 
 
