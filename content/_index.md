@@ -1,16 +1,7 @@
-<head>
-<!-- Global site tag (gtag.js) - Google Analytics -->
-<script async src="https://www.googletagmanager.com/gtag/js?id=UA-140675137-1"></script>
-<script>
-  window.dataLayer = window.dataLayer || [];
-  function gtag(){dataLayer.push(arguments);}
-  gtag('js', new Date());
-
-  gtag('config', 'UA-140675137-1');
-</script>
 
 <title>Hra o trůny</title>
-</head>
+
+<body>
 
 Hra o trůny je knižní i seriálová série z pera George Martina, jejíž seriálová verze se začátkem dubna chýlí ke konci. 
 
@@ -22,3 +13,12 @@ Zdroje
 https://hbogo.cz/serialy/hra-o-truny/rada-7
 https://www.sparknotes.com/lit/a-game-of-thrones/summary/
 https://www.imdb.com/title/tt0944947/plotsummary
+<!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-140675137-1"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'UA-140675137-1');
+</body>
