@@ -1,3 +1,15 @@
+<!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-139430703-1"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'UA-139430703-1');
+</script>
+
+ <link rel="stylesheet" href="styles.css">
+
 Hra o trůny
 -----------------
 
