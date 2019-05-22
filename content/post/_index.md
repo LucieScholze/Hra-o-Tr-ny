@@ -1,7 +1,5 @@
 ---
-title: Archiv
-menu:
-  main:
-    weight: 20
+title: Archive
 ---
+
 
