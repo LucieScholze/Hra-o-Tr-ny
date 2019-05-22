@@ -8,7 +8,6 @@ Po dech beroucím závěru třetí řady, zmizelo mnoho ze světa Hra o Trůny n
 
 
 
-
 ![Zmije](zmije.png)
 
 ![Novy kral](newKing.png)
