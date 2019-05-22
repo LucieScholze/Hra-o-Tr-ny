@@ -1,3 +1,6 @@
+<!doctype html>
+<html hang="cs-cz">
+  <head>
 <!-- Global site tag (gtag.js) - Google Analytics -->
 <script async src="https://www.googletagmanager.com/gtag/js?id=UA-140675137-1"></script>
 <script>
@@ -7,6 +10,10 @@
 
   gtag('config', 'UA-140675137-1');
 </script>
+
+<meta charset="utf-8">
+<title>Hra o trůny</title>
+</head>
 
 Hra o trůny
 -----------------
