@@ -1,4 +1,4 @@
-head:
+<head>
 <!-- Global site tag (gtag.js) - Google Analytics -->
 <script async src="https://www.googletagmanager.com/gtag/js?id=UA-139430703-1"></script>
 <script>
@@ -8,7 +8,7 @@ head:
 
   gtag('config', 'UA-139430703-1');
 </script>
----
+</head>
 
 O hře
 -----
