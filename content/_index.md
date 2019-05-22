@@ -6,7 +6,7 @@
   function gtag(){dataLayer.push(arguments);}
   gtag('js', new Date());
 
-  gtag('config', 'UA-139430703-1');
+  gtag('config.yaml', 'UA-139430703-1');
 </script>
 </head>
 
