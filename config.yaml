@@ -2,6 +2,8 @@ title: Hra o trůny
 baseURL: https://jovial-ptolemy-07956d.netlify.com/
 languageCode: cs-cz
 publishDir: public
+googleAnalytics: UA-139430703-1
+ <link rel="stylesheet" href="styles.css">
 
 menu:
   main:
@@ -12,10 +14,6 @@ menu:
       identifier: post
       url: /post/
       weight: 20
-    - name: O nás
-      url: /o-nás/
-      weight: 30
-      
 
 params:
   description: Ve svém semestrálním projektu bychom čtenáři rádi přiblížili knižní i seriálovou podobu příběhu, který si získal srdce celého světa.
