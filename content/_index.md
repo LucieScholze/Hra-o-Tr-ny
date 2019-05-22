@@ -1,5 +1,5 @@
 ---
-title: Game of Thrones
+title: Domovská stránka
 menu:
   main:
     weight: 30
