@@ -23,7 +23,7 @@ Daenerys je tou dobou již zničená neustálým bojem o moc, který ji stál v�
 
 Královo přístaviště se Daenerys vzdává, městem se rozléhají zvony a Lannisteři odkládají zbraně. Všichni čekají, že si Daenerys dojde pro Cersei a usedne na Železný trůn. Ta, která několik předchozích sérií cestovala od jednoho města v Essosu do druhého a osvobozovala otroky od zlých pánů se však rozhodne zabíjet nevinné lidi a sedící na hřbetě Drogona zapaluje postupně každou uličku v Králově přístavišti. Ukazuje se, že je dcerou svého otce, šíleného krále. 
 
-<img src="https://is.muni.cz/auth/www/488358/daenerys-khaleesi-people-cant-love-jon-snow-if-theres-no-people-meme.jpg?1559417217659" width="400" height="300">
+<img src="https://is.muni.cz/auth/www/488358/daenerys-khaleesi-people-cant-love-jon-snow-if-theres-no-people-meme.jpg?1559417217659" width="560" height="315">
 
 V pátém dílu se rovněž rozloučíme s několika hlavními postavami, které z Králova přístaviště nevyváznou živé. Mezi ně patří oba bratři Cleganové, kteří dostali to, co od nich fanouškové očekávali a tím byl souboj na život a na smrt, mnohými přezdívaný Cleganebowl. 
 
