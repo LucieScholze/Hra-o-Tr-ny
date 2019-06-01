@@ -41,7 +41,7 @@ aside {
   width: 15%;
   margin-top: 1em;
   font-family: monospace;
-	color: darkred;
+	color: blue;
 	font-size: 20px; 
   
 }
@@ -56,7 +56,7 @@ nav ul {
 
 nav li {
   margin-bottom: 1em;
-  font-family: monospace;
+  font-family: times new roman;
   font-size: 15px;
 
 }
