@@ -1,6 +1,5 @@
 .wrapper {
-  margin: 30px auto;
-  max-width: 1400px;
+  margin: none;
   padding: 20px;
   backgroud-color: blue;
 }
