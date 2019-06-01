@@ -8,7 +8,7 @@ header {
 	border-bottom: solid;
 	font-family: Times New Roman;
 	color: white;
-	font-size: 50px;
+	font-size: 30px;
 	text-shadow: 0 0 7px black, 0 0 5px black;
   background-image: url("https://is.muni.cz/auth/www/488358/juego-de-tronos-islandia.jpg");
   background-repeat: repeat-y;
@@ -37,12 +37,12 @@ footer {
 }
 
 aside {
-  float: left;
+  float: center;
   width: 15%;
   margin-top: 1em;
   font-family: monospace;
 	color: blue;
-	font-size: 20px; 
+	font-size: 30px; 
   
 }
 
