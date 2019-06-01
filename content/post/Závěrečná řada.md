@@ -19,11 +19,11 @@ Největší otázkou na konci sedmé série bylo: Jak zareaguje Jon Sníh na to,
 
 Daenerys je tou dobou již zničená neustálým bojem o moc, který ji stál všechny blízké a dalšího draka. Její představitelka Emilia Clarke se pak před pátou epizodou zmiňuje o tom, že si mají fanoušci pustit další díl na co největší obrazovce, protože to bude stát za to. A tady přichází pro mnohé další nelogická scéna, pro jiné jasná a nevyhnutelná událost. 
 
-<iframe width="400" height="300" src="https://www.youtube.com/embed/3PMW6cPRW0M" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3PMW6cPRW0M" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 Královo přístaviště se Daenerys vzdává, městem se rozléhají zvony a Lannisteři odkládají zbraně. Všichni čekají, že si Daenerys dojde pro Cersei a usedne na Železný trůn. Ta, která několik předchozích sérií cestovala od jednoho města v Essosu do druhého a osvobozovala otroky od zlých pánů se však rozhodne zabíjet nevinné lidi a sedící na hřbetě Drogona zapaluje postupně každou uličku v Králově přístavišti. Ukazuje se, že je dcerou svého otce, šíleného krále. 
 
-<img src="https://is.muni.cz/auth/www/488358/daenerys-khaleesi-people-cant-love-jon-snow-if-theres-no-people-meme.jpg?1559417217659" width="560" height="315">
+<img src="https://is.muni.cz/auth/www/488358/daenerys-khaleesi-people-cant-love-jon-snow-if-theres-no-people-meme.jpg?1559417217659" width="400" height="300">
 
 V pátém dílu se rovněž rozloučíme s několika hlavními postavami, které z Králova přístaviště nevyváznou živé. Mezi ně patří oba bratři Cleganové, kteří dostali to, co od nich fanouškové očekávali a tím byl souboj na život a na smrt, mnohými přezdívaný Cleganebowl. 
 
