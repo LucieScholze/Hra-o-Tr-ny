@@ -31,6 +31,7 @@ footer {
   padding-left: 1.5em;
   padding-bottom: 2em;
   min-height: 400px;
+  min-width: 500px;
   background-image: url("https://is.muni.cz/auth/www/488358/9e030a3b51018d6ff921071dfbe0baa8__1_.jpg");
   background-repeat: repeat-y;
   background-size: 100%;
