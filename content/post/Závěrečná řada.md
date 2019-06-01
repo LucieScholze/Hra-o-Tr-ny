@@ -47,8 +47,7 @@ Arya se po vzoru hrdinky Nymerie, po které byla pojmenována její zlovlčice, 
 
 A tak skončila píseň ledu a ohně. Na jedné straně s úchvatnými hereckými výkony, okouzlující vizuální stránkou a propracovaným námětem v podobě Knihy od R. R. Martina. Na druhé straně se závěrem, po němž přes půl milionu fanoušků podepsalo petici za přetočení závěrečné řady. Skončila éra světového šílenství odstartovaného heslem Zima se blíží, mnohem důležitější heslo, které se stalo ústředním tématem byl však Cersein proslov před Eddardem Starkem a nezapomenutelná věta – Když hraješ Hru o Trůny, buď vyhraješ nebo zemřeš. Napadlo však ale za celá léta strávená přemýšlením nad koncem, že může vyhrát postava, která Hru o trůny nikdy nehrála?
 
-<img src=“https://is.muni.cz/auth/www/488358/nm_got-memes.jpg?1559417980886" width="400" height="300">
- 
+<img src="https://is.muni.cz/auth/www/488358/nm_got-memes.jpg?1559417980886" width="400" height="300"> 
 
 
 
