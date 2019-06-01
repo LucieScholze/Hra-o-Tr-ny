@@ -19,7 +19,7 @@ Největší otázkou na konci sedmé série bylo: Jak zareaguje Jon Sníh na to,
 
 Daenerys je tou dobou již zničená neustálým bojem o moc, který ji stál všechny blízké a dalšího draka. Její představitelka Emilia Clarke se pak před pátou epizodou zmiňuje o tom, že si mají fanoušci pustit další díl na co největší obrazovce, protože to bude stát za to. A tady přichází pro mnohé další nelogická scéna, pro jiné jasná a nevyhnutelná událost. 
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/3PMW6cPRW0M" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="400" height="300" src="https://www.youtube.com/embed/3PMW6cPRW0M" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 Královo přístaviště se Daenerys vzdává, městem se rozléhají zvony a Lannisteři odkládají zbraně. Všichni čekají, že si Daenerys dojde pro Cersei a usedne na Železný trůn. Ta, která několik předchozích sérií cestovala od jednoho města v Essosu do druhého a osvobozovala otroky od zlých pánů se však rozhodne zabíjet nevinné lidi a sedící na hřbetě Drogona zapaluje postupně každou uličku v Králově přístavišti. Ukazuje se, že je dcerou svého otce, šíleného krále. 
 
@@ -27,7 +27,7 @@ Královo přístaviště se Daenerys vzdává, městem se rozléhají zvony a La
 
 V pátém dílu se rovněž rozloučíme s několika hlavními postavami, které z Králova přístaviště nevyváznou živé. Mezi ně patří oba bratři Cleganové, kteří dostali to, co od nich fanouškové očekávali a tím byl souboj na život a na smrt, mnohými přezdívaný Cleganebowl. 
 
-<img src="https://is.muni.cz/auth/www/488358/claganebowl.0.jpg?1559417217659" width="400" height="300">
+<img src="https://is.muni.cz/auth/www/488358/claganebowl.0.jpg?1559417217659" width="560" height="315">
 
 Se zklamáním se setkala smrt Cersei a Jamieho, kteří jsou při snaze utéct z Králova přístaviště zasypáni ve sklepení Rudé bašty. Otázkou přitom zůstává, zda se tím, že Jamie zavedl Cersei na místo, kde zemřeli, vyplnilo proroctví, že Cersei zemře přičiněním jednoho ze svých bratrů. Pro jednu z hlavních intrikánských postav si však fanoušci představovali o dost epičtější smrt. 
 
@@ -43,11 +43,11 @@ V dalším záběru máme nejvlivnější a nejchytřejší osoby v Západozemí
 
 Arya se po vzoru hrdinky Nymerie, po které byla pojmenována její zlovlčice, vydává na Západ objevovat nové krajiny a Sansa, jejíž vzpoura se ukázala být jako zbytečná, a která, když v osmé sérii promluvila, tak většinou proto, aby vyjádřila nedůvěru vůči rozhodnutím ostatních se nyní rozhoduje být paní svého vlastního osudu a dát Severu to, co měl po tisíc let (nehledě na to, že na začátku honby za korunou stála nevole proti Lannisterům na Železném trůnu a nyní je králem Bran, takže Stark) a tím je samostatnost. Stává se královnou Severu a ze Sedmi království se stává Království šest s Branem, který jen před pár díly řekl, že nechce být lordem na Zimohradu, protože on je Tříoká vrána a nemá ambice vládnout, v čele. 
 
-<img src="https://is.muni.cz/auth/www/488358/game_of_thrones_season_8_sansa_stark_queen_in_the_north_is_elizabeth_i.jpg?1559417711902" width="400" height="300">
+<img src="https://is.muni.cz/auth/www/488358/game_of_thrones_season_8_sansa_stark_queen_in_the_north_is_elizabeth_i.jpg?1559417711902" width="560" height="315">
 
 A tak skončila píseň ledu a ohně. Na jedné straně s úchvatnými hereckými výkony, okouzlující vizuální stránkou a propracovaným námětem v podobě Knihy od R. R. Martina. Na druhé straně se závěrem, po němž přes půl milionu fanoušků podepsalo petici za přetočení závěrečné řady. Skončila éra světového šílenství odstartovaného heslem Zima se blíží, mnohem důležitější heslo, které se stalo ústředním tématem byl však Cersein proslov před Eddardem Starkem a nezapomenutelná věta – Když hraješ Hru o Trůny, buď vyhraješ nebo zemřeš. Napadlo však ale za celá léta strávená přemýšlením nad koncem, že může vyhrát postava, která Hru o trůny nikdy nehrála?
 
-<img src="https://is.muni.cz/auth/www/488358/nm_got-memes.jpg?1559417980886" width="400" height="300"> 
+<img src="https://is.muni.cz/auth/www/488358/nm_got-memes.jpg?1559417980886" width="560" height="315"> 
 
 
 
