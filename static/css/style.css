@@ -26,7 +26,7 @@ footer {
 
 .page {
   float: right;
-  width: 100%;
+  width: 100%; /tady je změna/
   border-left: solid;
   padding-left: 1.5em;
   padding-bottom: 2em;
@@ -38,7 +38,7 @@ footer {
 
 aside {
   float: left;
-  width: 25%;
+  width: 75%;
   margin-top: 1em;
   font-family: monospace;
 	color: darkred;
