@@ -49,16 +49,15 @@ aside {
 
 nav ul {
   list-style-type: none;
-  padding: 30px;
   font-family: times new roman;
-  font-size: 15px;
+  font-size: 30px;
   background-size: 100%;
  
 
 nav li {
   margin-bottom: 1em;
   font-family: times new roman;
-  font-size: 15px;
+  font-size: 30px;
 }
 
 nav .active {
