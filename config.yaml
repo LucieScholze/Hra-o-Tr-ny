@@ -1,4 +1,4 @@
-title: HRA O TRŮNY
+title: <img src="http://www.pngall.com/wp-content/uploads/2016/05/Game-of-Thrones-Logo.png" alt="Game of Thrones" height="42" width="42">
 baseURL: https://jovial-ptolemy-07956d.netlify.com/
 languageCode: cs-cz
 publishDir: public
@@ -6,7 +6,6 @@ googleAnalytics: UA-139430703-1
  <link rel="stylesheet" href="styles.css">
 
 menu:
-<img src="https://lalaik.com/wp-content/uploads/2017/10/winter_is_coming_by_deviousaffair-d73z7d0.png" width="20" height="20">
   main:
     - name: Domovská stránka
       url: /
@@ -19,4 +18,5 @@ menu:
 params:
   description: Ve svém semestrálním projektu bychom čtenáři rádi přiblížili knižní i seriálovou podobu příběhu, který si získal srdce celého světa.
   authors: Lucie Scholzová, Terezie Rössová, Tomáš Badin
+  <img src="https://lalaik.com/wp-content/uploads/2017/10/winter_is_coming_by_deviousaffair-d73z7d0.png" alt="Game of Thrones" height="42" width="42">v8niAhUJwsQBHZT4DBEQ_AUIECg
 
