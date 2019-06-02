@@ -6,8 +6,8 @@ googleAnalytics: UA-139430703-1
  <link rel="stylesheet" href="styles.css">
 
 menu:
+<img src="https://lalaik.com/wp-content/uploads/2017/10/winter_is_coming_by_deviousaffair-d73z7d0.png" width="20" height="20">
   main:
-    - <img src="https://lalaik.com/wp-content/uploads/2017/10/winter_is_coming_by_deviousaffair-d73z7d0.png" width="20" height="20">
     - name: Domovská stránka
       url: /
       weight: 10
