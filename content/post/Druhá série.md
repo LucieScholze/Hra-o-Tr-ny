@@ -6,7 +6,7 @@ tags:
     - seasontwo
    
 ---
-V Západozemí po smrti Edda Starka (Sean Bean) rozpoutá válka pěti králů, Joffreyho Baratheona (Jack Gleeson), Robba Starka (Richard Madden), bratrů zesnulého krále Stannise (Stephen Dillane) a Renlyho Baratheona (Gethin Anthony) a Balona Greyjoye (Patrick Malahide), který se prohlásí králem Železných ostrovů po tom, co mu jeho syn Theon (Alfie Allen) předloží žádost Robba Starka o pomoc při boji proti Joffreymu Baratheonovi. 
+V Západozemí se po smrti Edda Starka (Sean Bean) rozpoutá válka pěti králů, Joffreyho Baratheona (Jack Gleeson), Robba Starka (Richard Madden), bratrů zesnulého krále Stannise (Stephen Dillane) a Renlyho Baratheona (Gethin Anthony) a Balona Greyjoye (Patrick Malahide), který se prohlásí králem Železných ostrovů po tom, co mu jeho syn Theon (Alfie Allen) předloží žádost Robba Starka o pomoc při boji proti Joffreymu Baratheonovi. 
 
 Robb pošle svou matku vyjednávat s Renlym a se Stannisem. Catelyn Stark (Michelle Fairley) je svědkem záhadné smrti Ranlyho, kterého zabije magie Melissandry (Carice van Houten), rudé kněžky sloužící Stannisovi a jelikož to vypadá, jakoby Renlyho zabila Catelyn a bojovnice Brienne (Gwendoline Christie), která ho strážila, musí obě utéci. 
 
