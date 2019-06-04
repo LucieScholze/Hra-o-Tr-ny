@@ -66,4 +66,4 @@ V Meereenu se vrací do zkázy, jelikož otrokáři, bez ohledu na dohodu s Tyri
 Protože se již chystá odjet do Západozemí, nechá Druhé syny spolu s Daariem v Meereenu, aby udržovali mír. 
 Tyriona jmenuje svým pobočníkem.
 
-<img src="https://is.muni.cz/auth/www/489318/Daenerys_rocks.jpg" width="500" height="300">
+<img src="https://is.muni.cz/auth/www/489318/git.gif" width="500" height="300">
