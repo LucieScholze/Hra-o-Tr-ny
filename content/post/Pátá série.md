@@ -49,7 +49,7 @@ Cersei (Lena Headey) zajmou vrabčáci a musí se pokat. Ostříhají ji vlasy a
 cestu od Velkého Baelorova septa až po Rudou baštu. 
 
 
-<img src="https://is.muni.cz/auth/www/489318/Cersei.jpg" width="500" height="300">
+<img src="https://is.muni.cz/auth/www/489318/cersei.jpg" width="500" height="300">
 
 
 Arya (Maisie Williams) se v Braavosu stává služebnicí Mnohotvářného boha.
