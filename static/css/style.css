@@ -9,6 +9,7 @@ header {
   border-left: ridge;
   border-right: ridge;
   border-top: ridge;
+  border-color: grey;
 	font: italic Georgia, serif;
   color: white;
 	font-size: 30px;
@@ -22,6 +23,11 @@ header {
 
 footer {
   font-size: 15px;
+  border-bottom: ridge;
+  border-left: ridge;
+  border-right: ridge;
+  border-top: ridge;
+  border-color: grey;
   background-image: url("https://is.muni.cz/auth/www/488358/juego-de-tronos-islandia.jpg");
   background-repeat: repeat-y;
   background-size: 100%;
@@ -32,9 +38,9 @@ footer {
 .page {
   float: right;
   width: 75%;
-  border-bottom: ridge;
   border-left: ridge;
   border-right: ridge;
+  border-color: grey;
   padding-left: 2em;
   padding-bottom: 4em;
   min-height: 400px;
