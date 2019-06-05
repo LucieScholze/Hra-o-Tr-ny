@@ -1,0 +1,72 @@
+.wrapper {
+  margin: 30px auto;
+  max-width: 800px;
+  padding: 20px;
+}
+
+header {
+ padding: 30px 0;
+	border-bottom: solid;
+	font-family: Times New Roman;
+	color: white;
+	font-size: 30px;
+	text-shadow: 0 0 7px black, 0 0 5px black;
+  background-image: url("https://is.muni.cz/auth/www/488358/juego-de-tronos-islandia.jpg");
+  background-repeat: repeat-y;
+  background-size: 100%;
+  text-align: center;
+  font-style: oblique;
+}
+
+footer {
+  border-top: solid;
+  clear: both;
+  background-image: url("https://is.muni.cz/auth/www/488358/juego-de-tronos-islandia.jpg");
+}
+
+.page {
+  float: right;
+  width: 70%;
+  border-left: solid;
+  padding-left: 1.5em;
+  padding-bottom: 2em;
+  min-height: 400px;
+  background-image: url("https://is.muni.cz/auth/www/488358/9e030a3b51018d6ff921071dfbe0baa8__1_.jpg");
+  background-repeat: repeat-y;
+  background-size: 100%;
+}
+
+aside {
+  float: left;
+  width: 25%;
+  margin-top: 1em;
+  font-family: monospace;
+	color: darkred;
+	font-size: 20px; 
+  
+}
+
+nav ul {
+  list-style-type: none;
+  padding: 0;
+  font-family: monospace;
+  font-size: 15px;
+  background-size: 100%;
+ 
+
+nav li {
+  margin-bottom: 1em;
+  font-family: monospace;
+  font-size: 15px;
+
+}
+
+nav .active {
+  font-weight: bold;
+}
+
+title {
+  font-size: 20px;
+  color: blue;
+  }
+

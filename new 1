@@ -1,0 +1,22 @@
+title: Hra o trůny
+baseURL: https://jovial-ptolemy-07956d.netlify.com/
+languageCode: cs-cz
+publishDir: public
+googleAnalytics: UA-139430703-1
+
+ <link rel="stylesheet" href="styles.css">
+
+menu:
+  main:
+    - name: Domovská stránka
+      url: /
+      weight: 10
+    - name: Archiv
+      identifier: post
+      url: /post/
+      weight: 20
+
+params:
+  description: Ve svém semestrálním projektu bychom čtenáři rádi přiblížili knižní i seriálovou podobu příběhu, který si získal srdce celého světa.
+  authors: Lucie Scholzová, Terezie Rössová, Tomáš Badin
+
