@@ -21,7 +21,6 @@ header {
 }
 
 footer {
-  float: left;
   font-size: 15px;
   background-image: url("https://is.muni.cz/auth/www/488358/juego-de-tronos-islandia.jpg");
   background-repeat: repeat-y;
@@ -35,7 +34,6 @@ footer {
   border-bottom: ridge;
   border-left: ridge;
   border-right: ridge;
-  border-top: ridge;
   padding-left: 2em;
   padding-bottom: 4em;
   min-height: 400px;
