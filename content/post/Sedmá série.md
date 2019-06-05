@@ -70,4 +70,4 @@ Dozvídá se také to, že Jon Snow se doopravdy jmenuje Aegon VI. Targaryen.
 
 Noční král a Jiní vytahují z ledové vody Viseriona a ten se stává jedním z nich. 
 
-<img src="https://is.muni.cz/auth/www/489318/deadviserion" width="500" height="300">
+<img src="https://is.muni.cz/auth/www/489318/deadviserion.jpg" width="500" height="300">
