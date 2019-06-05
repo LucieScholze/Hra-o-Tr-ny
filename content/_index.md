@@ -9,7 +9,10 @@ Ve svém projektu bych tedy ráda rozebrala postavy, děj, možná i fanouškovs
 
 Seriál pojednává o fantasy zemi,kde se odehrává boj mezi mnoha hlavními postavami, jehož cílem je zmocnit se trůnu. Další velkou zápletkou je příchod zimy a s ní i příchod nemrtvých, Bílých chodců a jejich Nočního krále.
 
-Zdroje
+Zdroje:
+
 https://hbogo.cz/serialy/hra-o-truny/rada-7
+
 https://www.sparknotes.com/lit/a-game-of-thrones/summary/
+
 https://www.imdb.com/title/tt0944947/plotsummary
