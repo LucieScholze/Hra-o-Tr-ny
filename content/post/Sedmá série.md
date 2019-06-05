@@ -21,15 +21,14 @@ svými Dothraky a s Drogonem na lannisterskou armádu a většinu zničí.
 encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 Arya se vrátila do Západozemí s cílem zabít Cersei Lannister. Ještě předtím ovšem vykonala pomstu na celém rodu Freyů, kde se 
-převlečená za lorda Freye podaří všechny muže rodu Freyů otrávit. Následuje Cersei, jenže se v hospodě dozví od starého přítele, Horkého
-koláče, že Zimohrad patří opět Starkům a Jon Snow byl provolán králem severu. Proto obrací koně a míří na Sever, kde se opět setkává
+převlečená za lorda Freye podaří všechny muže rodu Freyů otrávit. Následuje Cersei, jenže se v hospodě od starého přítele dozví, že Zimohrad patří opět Starkům a Jon Snow byl provolán králem severu. Proto obrací koně a míří na sever, kde se opět setkává
 se svou sestrou Sansou Stark. Malíček se je snaží poštvat proti sobě, jenže po tom všem, co si obě sestry prožily, drží při 
-sobě (i když to na sobě nedávají znát). Sansa obviní Malíček ze zrady a Arya mu podřízne krk.
+sobě (i když to na sobě nedávají znát). Sansa obviní Malíčka ze zrady a Arya mu podřízne krk.
 
 <img src="https://is.muni.cz/auth/www/489318/littlefinger.gif" width="500" height="300">
 
 Jaime, který zaútočil na Vysokou zahradu, vyhrává a konfrontuje Olennu Tyrell. Podává jí jed se slovy, že Cersei pro ni měla
-připravený horší osud, ale Jaime jí to vymluvil. Po vypití jedu se Olenna přiznává, že to byla ona, kdo zabil jejich syna Joffreyho.
+připravený horší osud, ale on jí to vymluvil. Po vypití jedu se Olenna přiznává, že to byla ona, kdo zabil Joffreyho.
 
 <img src="https://is.muni.cz/auth/www/489318/olenna.png" width="500" height="300">
 
@@ -43,7 +42,7 @@ Cersei se spojí s Euronem Greyjoyem, který jí nabízí sňatek. Cersei odmít
 dar, díky kterému vyhraje její srdce. Později se vrací s Ellarií a Tyene Písek, ženami, které otrávily královninu dceru 
 Myrcellu. Cersei na oplátku podá jed dceři Ellarii stejně, jako Ellaria podala jed Myrcelle.
 
-<img src="https://is.muni.cz/auth/www/489318/meme.jpg" width="500" height="300">
+<img src="https://is.muni.cz/auth/www/489318/meme.jpg" width="500" height="400">
 
 Daenerys se jako vítězka vrací do Dračího kamene, kde se k jejímu milému překvapení setká s Jorahem, který byl díky Samovi vyléčen. 
 
@@ -54,7 +53,9 @@ Tím chtějí přesvědčit Cersei, aby se k nim přidala proti armádě Noční
 přilétá se všemi svými draky zachránit. Noční král zabíjí jednoho z nich, Viseriona a Danerys odlétá bez Jona.
 Ten se ovšem zraněný vrací a po téhle příhodě slíbí Daenerys svou věrnost. 
 
-Daenerys, Jon, Tyrion a další z jejich skupiny se setkávají v Králově přístavišti.
+<img src="https://is.muni.cz/auth/www/489318/Viserion.jpg" width="500" height="300">
+
+Daenerys, Jon, Tyrion a další z jejich skupiny se setkávají v Králově přístavišti se Cersei. 
 Cersei jim slíbí, že jim pomůže, ovšem když se dozvídá, že Jon slíbil svou věrnost Daenerys, odchází. 
 Tyrion to ovšem napraví, a tak se vrací zpět na Dračí kámen. Tam probírají další strategii a dohodnou se, že Daenerys 
 popluje z Bílého přístavu spolu s Jonem, zatímco Neposkvrnění a Dothraci půjdou pěšky/na koních. A hle, šoková scéna 
@@ -69,4 +70,4 @@ Dozvídá se také to, že Jon Snow se doopravdy jmenuje Aegon VI. Targaryen.
 
 Noční král a Jiní vytahují z ledové vody Viseriona a ten se stává jedním z nich. 
 
-<img src="https://is.muni.cz/auth/www/489318/Viserion.jpg" width="500" height="300">
+<img src="https://is.muni.cz/auth/www/489318/deadviserion" width="500" height="300">
