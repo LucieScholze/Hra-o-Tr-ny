@@ -19,6 +19,8 @@ header {
 }
 
 footer {
+  float: down;
+  font-size: 30px;
 }
 
 .page {
