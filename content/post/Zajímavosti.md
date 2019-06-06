@@ -33,4 +33,4 @@ Nejdražší paruky seriálu nosí Emilia Clarke a Lena Headey. Každá vyšla n
 
 
 
-<img src="https://is.muni.cz/auth/www/489318/got" width="500" height="300">
+<img src="https://is.muni.cz/auth/www/489318/got.jpg" width="500" height="500">
