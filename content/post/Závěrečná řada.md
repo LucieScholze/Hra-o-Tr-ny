@@ -1,6 +1,6 @@
 ---
 title: Závěrečná série
-date: 2019-06-01
+date: 2019-06-06
 tags: 
     - GameofThrones
     - seasoneight
@@ -21,7 +21,7 @@ Daenerys je tou dobou již zničená neustálým bojem o moc, který ji stál v�
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/3PMW6cPRW0M" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-Královo přístaviště se Daenerys vzdává, městem se rozléhají zvony a Lannisteři odkládají zbraně. Všichni čekají, že si Daenerys dojde pro Cersei a usedne na Železný trůn. Ta, která několik předchozích sérií cestovala od jednoho města v Essosu do druhého a osvobozovala otroky od zlých pánů se však rozhodne zabíjet nevinné lidi a sedící na hřbetě Drogona zapaluje postupně každou uličku v Králově přístavišti. Ukazuje se, že je dcerou svého otce, šíleného krále. 
+Královo přístaviště se Daenerys vzdává, městem se rozléhají zvony a Lannisteři odkládají zbraně. Všichni čekají, že si Daenerys dojde pro Cersei a usedne na Železný trůn. Ta, která několik předchozích sérií cestovala od jednoho města v Essosu do druhého a osvobozovala otroky od zlých pánů, se však rozhodne zabíjet nevinné lidi a sedící na hřbetě Drogona zapaluje postupně každou uličku v Králově přístavišti. Ukazuje se, že je dcerou svého otce, šíleného krále. 
 
 <img src="https://is.muni.cz/auth/www/488358/daenerys-khaleesi-people-cant-love-jon-snow-if-theres-no-people-meme.jpg?1559417217659" width="400" height="300">
 
