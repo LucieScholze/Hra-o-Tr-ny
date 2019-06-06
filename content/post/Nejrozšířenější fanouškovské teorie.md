@@ -12,10 +12,11 @@ Bran je ve skutečnosti Noční král
 Od chvíle co se Bran stal Tříokou vránou, se rozmohla teorie o tom, že by mohl být s Nočním králem jedna a ta samá osoba. Pro hovořilo Branovo šatstvo, které bylo Nočnímu králi dosti podobné, i jeho obličejové rysy a především schopnost cestovat v čase, která by mohla Branovi umožnit být na dvou místech zároveň. Stěžejní byla scéna, kdy se Noční král dotkne Brana a ten jejich setkání přežije. Důvodem proč by se stal Nočním králem mohla být údajně jeho snaha zamezit konfliktu, do který však svým přičiněním nakonec sám zavinil. 
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/6Mr076-xwo4" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 Stav: neuskutečněno
 
 Jon zabije Daenerys
--------------------------------------
+-------------------
 
 Tato teorie je vlastně spojením několika teorií v jednu. Tou první bylo napojení na historii a bájné postavy Azora Ahaie a Nissu Nissu. Jon je přirovnáván k Azoru Ahai, neboli princi, který byl přislíben a tedy k někomu, kdo ochrání Západozemí. Tou druhou Daenerysiino napojení na Targaryensou rodovou linii, v níž je kvůli sňatkům v rodině rozšířené šílenství. A ona by se měla tedy, stejně jako její otec, stát „Mad queen“. Jon tedy proto, aby ochránil Západozemí, musí Daenerys zabít. 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/T2WCCJLtRfg" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
