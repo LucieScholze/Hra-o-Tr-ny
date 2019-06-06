@@ -19,6 +19,7 @@ Jon zabije Daenerys
 -------------------
 
 Tato teorie je vlastně spojením několika teorií v jednu. Tou první bylo napojení na historii a bájné postavy Azora Ahaie a Nissu Nissu. Jon je přirovnáván k Azoru Ahai, neboli princi, který byl přislíben a tedy k někomu, kdo ochrání Západozemí. Tou druhou Daenerysiino napojení na Targaryensou rodovou linii, v níž je kvůli sňatkům v rodině rozšířené šílenství. A ona by se měla tedy, stejně jako její otec, stát „Mad queen“. Jon tedy proto, aby ochránil Západozemí, musí Daenerys zabít. 
+
 <iframe width="560" height="315" src="https://www.youtube.com/embed/T2WCCJLtRfg" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 Stav: uskutečněno
